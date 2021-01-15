@@ -1,0 +1,107 @@
+.twitter-followers {
+    float: left;
+    margin: 0;
+    width: 575px;
+    font-family: Karla, "Helvetica Neue", Helvetica, Arial, sans-serif;
+  }
+  
+  .followers-header {
+    margin: 18px 0;
+    font-size: 16px;
+  }
+  tr{
+    color: #333;
+    line-height: 25px;
+  }
+  
+  .followers-tbl {
+    font-size: 16px;
+    line-height: 18px;
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  }
+  
+  .followers-tbl a {
+    color: #333;
+    text-decoration: none;
+  }
+  .followers-tbl a:hover{
+    text-decoration: underline;
+  }
+  
+  .header {
+    border-bottom: 2px solid #555;
+    font-size: 16px;
+    font-weight: 400;
+    text-transform: uppercase;
+  }
+  
+  .header:hover {
+    background-color: #eee;
+    cursor: pointer;
+  }
+  
+  .bar-chart{
+    margin-right: 6px;
+  }
+  .bar{
+    width :9px;
+    background-color :#3fc1c9;
+  }
+  .bar-cell {
+    display: flex;
+    width: 100%;
+    align-items: center;
+  }
+  
+  .number {
+    font-family: "Fira Mono", Consolas, Monaco, monospace;
+    font-size: 16px;
+    white-space: pre;
+    margin: 0;
+    padding-top: 6px;
+    width: 70px;
+    height:30px;
+  }
+  
+  .bar-chart {
+    flex-grow: 1;
+    margin-left: 6px;
+    margin-right: 6px;
+    width: 100%;
+    height: 14px;
+  }
+  
+  .bar {
+    width: 100%;
+    height: 100%;
+    background-color: rgb(63, 193, 201);
+  }
+  .Ex-bar{
+    width: 100%;
+    height: 100%;
+    background-color: #fc5185;
+  }
+ .recharts-wrapper {
+    width: 0px !important;
+    height: 0px !important;
+}
+
+  .recharts-surface {
+    position: absolute;
+    top: 400px;
+    left: 1080px;
+    right: -1150px;
+} 
+.barchart-message{
+  margin: 0;
+  padding: 0;
+  width: 150px;
+  font-size: x-large;
+}
+.barchart-msg-container{
+  display: inline-block;
+  position: absolute;
+  top: 410px;
+  right: 25px;
+  
+}

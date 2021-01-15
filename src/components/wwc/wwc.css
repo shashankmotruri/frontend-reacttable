@@ -1,0 +1,68 @@
+.wwc-container{
+    float: left;
+    margin: 0;
+    font-family: Karla, "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+.wwc-header{
+    margin: 18px 0;
+    font-size: 16px;
+}
+tr{
+    color: #333;
+    line-height: 20px;
+}
+  .header {
+    border-bottom: 2px solid #555;
+    font-size: 13px;
+    font-weight: 400;
+    text-transform: uppercase;
+  }
+  
+  .header:hover {
+    background-color: #eee;
+    cursor: pointer;
+  }
+
+
+.ofi-background{
+  left: 18px;
+  position: relative;
+  text-align: center;
+  width: 30px;
+  height: 30px;
+  border-radius: 50%;
+  line-height: 32px;
+  top: 6px;
+  border: 1px solid #ccc;
+  font-size: 14px;
+  box-sizing: content-box;
+}
+.makeround16_class{
+  position: relative;
+  left: 13px;
+}
+.makeroundof16{
+  position: relative;
+  left: 13px;
+  background-color:rgb(53, 176, 171);
+  width: 100px;
+  height: 33px;
+}
+
+.wwc-message{
+  margin: 0;
+  padding: 0;
+  width: 150px;
+  font-size: x-large;
+}
+.wwc-msg-container{
+  display: inline-block;
+  position: absolute;
+  top: 205px;
+  right: 25px;
+}
+.App > div:nth-child(1) > div:nth-child(2) > svg:nth-child(1) {
+  position: relative;
+  left: 1080px;
+  top: -750px;
+}

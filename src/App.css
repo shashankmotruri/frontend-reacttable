@@ -1,0 +1,21 @@
+.bar-graph-conatiner {
+    position: absolute;
+    width: 300px;
+    right: 60px;
+    top: 100px;
+}
+.bar-h1{
+    margin: 0;
+    padding:0;
+    display: inline-block;
+}
+.graph-head {
+    margin: 0;
+    display: inline-block;
+    position: absolute;
+    top: 150px;
+    width: 300px;
+    right: 30px;
+    border-bottom: 2px solid #555;
+    padding: 5px;
+}
